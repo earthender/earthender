@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is the top commander of the International Fleet.
+
+Reach me at earthender@yandex.com
+
 <!--
 **earthender/earthender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
